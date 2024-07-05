@@ -22,7 +22,7 @@ int main() {
 
 <h4>A simple yet practical bmp reader for c++</h4>
 
-<h5>#include list to make it all work</h5>
+<h5>List of required includes</h5>
 
 ```cpp
 #include <iostream>
