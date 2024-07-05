@@ -1,6 +1,6 @@
 <h1>BMP Image Reader</h1>
 
-```
+```cpp
 #include <iostream>
 #include "classes/dimensions.hpp"
 #include "classes/bmp.hpp"
