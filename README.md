@@ -22,11 +22,13 @@ int main() {
 
 <h4>A simple yet practical bmp reader for c++</h4>
 
-<p>#include list to make it all work</p>
+<h5>#include list to make it all work</h5>
 
-* #include <iostream>
-* #include <fstream>
-* #include <fstream>
-* #include <vector>
-* #include <unordered_map>
-* #include <functional>
+```cpp
+#include <iostream>
+#include <fstream>
+#include <fstream>
+#include <vector>
+#include <unordered_map>
+#include <functional>
+```
